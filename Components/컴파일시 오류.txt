@@ -1,0 +1,3 @@
+dcu오류가날때
+dcu폴더의 dcu들을 복사 (unti*.dcu제외)
+...\Delphi7SE\Imports에 붙여넣기

@@ -1,0 +1,7 @@
+compo의 하위파일들을 복사후
+C:\Program Files (x86)\Delphi7SE\Lib에 붙여넣는다
+component 메뉴에서 Install Component를 클릭
+into new pakage 클릭  
+아래는 dclusr.dpk 선택 
+위에는 mp3plyr.pas.선택
+설치
